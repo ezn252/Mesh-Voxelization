@@ -37,7 +37,7 @@ If this toolkit supports your work, please reference the method below (names upd
 
 * **Blazing Fast** – Multithreaded C++ implementation voxelises large batches in seconds.
 * **Dual Output** – Choose between SDFs (for sub‑voxel surface recovery) or raw occupancy volumes (for discrete tasks).
-* \\Corner\\ or **Center** Sampling – Decide whether SDF distances originate at voxel corners (default) or centres.
+* **Corner** or **Center** Sampling – Decide whether SDF distances originate at voxel corners (default) or centres.
 * **Colour‑Aware** – Preserve original face colours when exporting occupancy grids.
 * **Portable HDF5** – All volumes are stored as compact `.h5` files.
 
