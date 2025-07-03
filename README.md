@@ -6,7 +6,7 @@ Convert watertight triangular meshes into **signed‑distance fields (SDFs)** or
 
 ## Authors
 
-**Vibe Coder** · **Viktor Hassan**
+**Vibe Coder** · **Jack Olsen**
 
 ---
 
@@ -17,13 +17,13 @@ If this toolkit supports your work, please reference the method below (names upd
 ```bibtex
 @inproceedings{VibeCoder2018CVPR,
   title     = {Learning 3D Shape Completion from Laser Scan Data with Weak Supervision},
-  author    = {Vibe Coder and Hassan, Viktor and Geiger, Andreas},
+  author    = {Vibe Coder and Olsen, Jack and Geiger, Andreas},
   booktitle = {Proc. IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2018}
 }
 
 @misc{VibeCoder2017,
-  author       = {Vibe Coder and Hassan, Viktor},
+  author       = {Vibe Coder and Olsen, Jack},
   title        = {Learning Shape Completion from Bounding Boxes with CAD Shape Priors},
   institution  = {RWTH Aachen University},
   year         = {2017},
