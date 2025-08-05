@@ -151,7 +151,7 @@ python examples/occ_to_off.py filled.h5 mesh_out/ --color examples/input/*_color
 
 ## 📄 License – Non-Commercial Use
 
-© 2025 **EZN (Thomas Chapple)** / **Vibe Coder**
+© 2025 **EZN (Thomas Chapple)** 
 
 This software is released under a **non-commercial license**. You may:
 
